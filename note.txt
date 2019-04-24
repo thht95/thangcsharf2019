@@ -1,1 +1,10 @@
-﻿á
+﻿lúc đi thi
+sau khi gửi câu hỏi cho anh
+anh làm xong
+anh sẽ nhắn trên mess
+thì em vào trong folder chứa project
+rồi chuột phải
+chọn git bash here
+gõ
+git pull origin master
+
