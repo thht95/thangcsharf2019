@@ -43,8 +43,8 @@
             this.thốngKêNhânViênTheoNơiỞToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thốngKêTiềnBánHàngTheoQuýToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thốngKêHàngCònTrongKhoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thốngKêHàngBánChạyNhấtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -174,19 +174,19 @@
             this.thốngKêHàngCònTrongKhoToolStripMenuItem.Text = "Thống kê hàng còn trong kho";
             this.thốngKêHàngCònTrongKhoToolStripMenuItem.Click += new System.EventHandler(this.thốngKêHàngCònTrongKhoToolStripMenuItem_Click);
             // 
-            // thoátToolStripMenuItem
-            // 
-            this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
-            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
-            this.thoátToolStripMenuItem.Text = "Thoát";
-            this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
-            // 
             // thốngKêHàngBánChạyNhấtToolStripMenuItem
             // 
             this.thốngKêHàngBánChạyNhấtToolStripMenuItem.Name = "thốngKêHàngBánChạyNhấtToolStripMenuItem";
             this.thốngKêHàngBánChạyNhấtToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
             this.thốngKêHàngBánChạyNhấtToolStripMenuItem.Text = "Thống kê hàng bán chạy nhất";
             this.thốngKêHàngBánChạyNhấtToolStripMenuItem.Click += new System.EventHandler(this.thốngKêHàngBánChạyNhấtToolStripMenuItem_Click);
+            // 
+            // thoátToolStripMenuItem
+            // 
+            this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
+            this.thoátToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
+            this.thoátToolStripMenuItem.Text = "Exit";
+            this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
             // 
             // Form_Main
             // 
