@@ -86,7 +86,7 @@
             this.btn_login.Name = "btn_login";
             this.btn_login.Size = new System.Drawing.Size(100, 35);
             this.btn_login.TabIndex = 5;
-            this.btn_login.Text = "Đăng nhập";
+            this.btn_login.Text = "Login";
             this.btn_login.UseVisualStyleBackColor = true;
             this.btn_login.Click += new System.EventHandler(this.btn_login_Click_1);
             // 
@@ -97,7 +97,7 @@
             this.btn_cancel.Name = "btn_cancel";
             this.btn_cancel.Size = new System.Drawing.Size(100, 35);
             this.btn_cancel.TabIndex = 6;
-            this.btn_cancel.Text = "Thoát";
+            this.btn_cancel.Text = "Exit";
             this.btn_cancel.UseVisualStyleBackColor = true;
             this.btn_cancel.Click += new System.EventHandler(this.btn_cancel_Click);
             // 
