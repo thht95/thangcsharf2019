@@ -1,0 +1,78 @@
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\QLBH_Maytinh.exe.config
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\QLBH_Maytinh.exe
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\FlashControlV71.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\stdole.dll
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Banhang.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ChitietHDN.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ChitietHDX.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.DanhsachHDN.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.DanhsachHDX.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Login.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Form_Main.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Nhaphang.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Properties.Resources.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlyhanghoa.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlynhacungcap.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlynhanvien.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hoadonnhap.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Nhanvien_Diachi.resources
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.csproj.GenerateResource.Cache
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.exe
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.pdb
+C:\Users\Do Van Son\Documents\Visual Studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\QLBH_Maytinh.pdb
+C:\Users\Do Van Son\documents\visual studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hoadonxuat.resources
+C:\Users\Do Van Son\documents\visual studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Thống_kê_doanh_thu_theo_quý.resources
+C:\Users\Do Van Son\documents\visual studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hangtonkho.resources
+C:\Users\Do Van Son\documents\visual studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Thongkehangbanchay.resources
+C:\Users\Do Van Son\documents\visual studio 2015\Projects\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.csprojResolveAssemblyReference.cache
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\QLBH_Maytinh.exe.config
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.exe
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.pdb
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\QLBH_Maytinh.exe
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\QLBH_Maytinh.pdb
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\mscorlib.dll
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\System.Net.Http.dll
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\System.Net.Http.xml
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normidna.nlp
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normnfc.nlp
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normnfd.nlp
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normnfkc.nlp
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normnfkd.nlp
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.csprojResolveAssemblyReference.cache
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Banhang.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ChitietHDN.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ChitietHDX.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.DanhsachHDN.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.DanhsachHDX.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Login.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Form_Main.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Nhaphang.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Properties.Resources.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlyhanghoa.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlynhacungcap.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlynhanvien.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hangtonkho.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hoadonnhap.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hoadonxuat.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Nhanvien_Diachi.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Thongkehangbanchay.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Thống_kê_doanh_thu_theo_quý.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.csproj.GenerateResource.Cache
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ABCD.resources
