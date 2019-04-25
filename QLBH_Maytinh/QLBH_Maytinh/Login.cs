@@ -56,7 +56,7 @@ namespace QLBH_Maytinh
 
         private void btn_cancel_Click(object sender, EventArgs e)
         {
-            DialogResult dlr = MessageBox.Show("Bạn có chắc chắn muốn thoát?", "Warning",
+            DialogResult dlr = MessageBox.Show("Bạn có chắc chắn muốn exit?", "exit",
                    MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (dlr == DialogResult.Yes)
                 Close();
