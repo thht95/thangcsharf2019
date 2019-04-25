@@ -62,7 +62,7 @@
             this.btn_baocao.TabIndex = 24;
             this.btn_baocao.Text = "Báo cáo";
             this.btn_baocao.UseVisualStyleBackColor = true;
-            this.btn_baocao.Click += new System.EventHandler(this.btn_baocao_Click);
+//            this.btn_baocao.Click += new System.EventHandler(this.btn_baocao_Click);
             // 
             // btn_xoa
             // 

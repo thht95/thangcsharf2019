@@ -56,18 +56,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ABC.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ABC.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="ABCD.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ABCD.Designer.cs">
-      <DependentUpon>ABCD.cs</DependentUpon>
-    </Compile>
     <Compile Include="Banhang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,12 +85,6 @@
     </Compile>
     <Compile Include="DanhsachHDX.Designer.cs">
       <DependentUpon>DanhsachHDX.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Doanhthu_quy.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Doanhthu_quy.rpt</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -142,79 +124,6 @@
     <Compile Include="Quanlynhanvien.Designer.cs">
       <DependentUpon>Quanlynhanvien.cs</DependentUpon>
     </Compile>
-    <Compile Include="Rp_Hangbanchay.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Rp_Hangbanchay.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Rp_Hangton.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Rp_Hangton.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Rp_Hangtonkho.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Rp_Hangtonkho.Designer.cs">
-      <DependentUpon>Rp_Hangtonkho.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Rp_HDN.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Rp_HDN.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Rp_HDX.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Rp_HDX.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Rp_Hoadonnhap.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Rp_Hoadonnhap.Designer.cs">
-      <DependentUpon>Rp_Hoadonnhap.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Rp_Hoadonxuat.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Rp_Hoadonxuat.Designer.cs">
-      <DependentUpon>Rp_Hoadonxuat.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Rp_Nhanvien_Diachi.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Rp_Nhanvien_Diachi.Designer.cs">
-      <DependentUpon>Rp_Nhanvien_Diachi.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Rp_Nhanvien_Noio.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Rp_Nhanvien_Noio.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Rp_Thongkehangbanchay.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Rp_Thongkehangbanchay.Designer.cs">
-      <DependentUpon>Rp_Thongkehangbanchay.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Rp_Thongketheoquy.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Rp_Thongketheoquy.Designer.cs">
-      <DependentUpon>Rp_Thongketheoquy.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="ABC.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>ABC.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ABCD.resx">
-      <DependentUpon>ABCD.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Banhang.resx">
       <DependentUpon>Banhang.cs</DependentUpon>
     </EmbeddedResource>
@@ -229,10 +138,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DanhsachHDX.resx">
       <DependentUpon>DanhsachHDX.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Doanhthu_quy.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Doanhthu_quy.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -260,44 +165,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Quanlynhanvien.resx">
       <DependentUpon>Quanlynhanvien.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Hangbanchay.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Rp_Hangbanchay.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Hangton.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Rp_Hangton.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Hangtonkho.resx">
-      <DependentUpon>Rp_Hangtonkho.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_HDN.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Rp_HDN.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_HDX.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Rp_HDX.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Hoadonnhap.resx">
-      <DependentUpon>Rp_Hoadonnhap.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Hoadonxuat.resx">
-      <DependentUpon>Rp_Hoadonxuat.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Nhanvien_Diachi.resx">
-      <DependentUpon>Rp_Nhanvien_Diachi.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Nhanvien_Noio.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>Rp_Nhanvien_Noio.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Thongkehangbanchay.resx">
-      <DependentUpon>Rp_Thongkehangbanchay.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Rp_Thongketheoquy.resx">
-      <DependentUpon>Rp_Thongketheoquy.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

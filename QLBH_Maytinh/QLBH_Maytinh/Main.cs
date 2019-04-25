@@ -133,53 +133,63 @@ namespace QLBH_Maytinh
                 
         }
 
-        private void thốngKêNhânViênTheoNơiỞToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            if (kiemtraHienMotform("Nhanvien_noio")) return;
-            else
-            {
-                Rp_Nhanvien_Diachi frm = new Rp_Nhanvien_Diachi();
-                frm.MdiParent = this;
-                frm.Show();
-            }
-        }
 
         private void Form_Main_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
         }
 
-        private void thốngKêTiềnBánHàngTheoQuýToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            if (kiemtraHienMotform("Thống_kê_doanh_thu_theo_quý")) return;
-            else
-            {
-                Thống_kê_doanh_thu_theo_quý frm = new Thống_kê_doanh_thu_theo_quý();
-                frm.MdiParent = this;
-                frm.Show();
-            }
-        }
+        //private void thốngKêNhânViênTheoNơiỞToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
 
-        private void thốngKêHàngCònTrongKhoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            if (kiemtraHienMotform("Rp_Hangtonkho")) return;
-            else
-            {
-                Rp_Hangtonkho frm = new Rp_Hangtonkho();
-                frm.MdiParent = this;
-                frm.Show();
-            }
-        }
+        //}
 
-        private void thốngKêHàngBánChạyNhấtToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            if (kiemtraHienMotform("Rp_Thongkehangbanchay")) return;
-            else
-            {
-                Rp_Thongkehangbanchay frm = new Rp_Thongkehangbanchay();
-                frm.MdiParent = this;
-                frm.Show();
-            }
-        }
+        //private void thốngKêTiềnBánHàngTheoQuýToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void thốngKêHàngCònTrongKhoToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void thốngKêHàngBánChạyNhấtToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+
+        //}
+
+        //private void thốngKêTiềnBánHàngTheoQuýToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    if (kiemtraHienMotform("Thống_kê_doanh_thu_theo_quý")) return;
+        //    else
+        //    {
+        //        Thống_kê_doanh_thu_theo_quý frm = new Thống_kê_doanh_thu_theo_quý();
+        //        frm.MdiParent = this;
+        //        frm.Show();
+        //    }
+        //}
+
+        //private void thốngKêHàngCònTrongKhoToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    if (kiemtraHienMotform("Rp_Hangtonkho")) return;
+        //    else
+        //    {
+        //        Rp_Hangtonkho frm = new Rp_Hangtonkho();
+        //        frm.MdiParent = this;
+        //        frm.Show();
+        //    }
+        //}
+
+        //private void thốngKêHàngBánChạyNhấtToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    if (kiemtraHienMotform("Rp_Thongkehangbanchay")) return;
+        //    else
+        //    {
+        //        Rp_Thongkehangbanchay frm = new Rp_Thongkehangbanchay();
+        //        frm.MdiParent = this;
+        //        frm.Show();
+        //    }
+        //}
     }
 }

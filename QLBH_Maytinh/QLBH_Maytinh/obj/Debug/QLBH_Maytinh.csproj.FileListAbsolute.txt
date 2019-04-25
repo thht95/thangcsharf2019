@@ -55,7 +55,6 @@ E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Deb
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normnfd.nlp
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normnfkc.nlp
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\bin\Debug\normnfkd.nlp
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.csprojResolveAssemblyReference.cache
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Banhang.resources
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ChitietHDN.resources
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ChitietHDX.resources
@@ -68,11 +67,5 @@ E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Deb
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlyhanghoa.resources
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlynhacungcap.resources
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Quanlynhanvien.resources
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hangtonkho.resources
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hoadonnhap.resources
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Hoadonxuat.resources
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Nhanvien_Diachi.resources
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Rp_Thongkehangbanchay.resources
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.Thống_kê_doanh_thu_theo_quý.resources
 E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.csproj.GenerateResource.Cache
-E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.ABCD.resources
+E:\BTLtonghop\BTL hướng sự kiện\QLbanMT\QLBH_Maytinh\QLBH_Maytinh\obj\Debug\QLBH_Maytinh.csprojResolveAssemblyReference.cache

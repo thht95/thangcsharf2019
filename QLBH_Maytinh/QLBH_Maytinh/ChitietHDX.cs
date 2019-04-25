@@ -24,7 +24,7 @@ namespace QLBH_Maytinh
             InitializeComponent();
             txt_mahdx.Text = ma;
             txt_manv.Text = manv;
-            date_chitiethdx.Text = ngayxuat;
+         //   date_chitiethdx.Text = ngayxuat;
             txt_tongtien.Text = tongtien;
             txt_tennv.Text = tennv;
             txt_tenkh.Text = tenkh;

@@ -117,11 +117,11 @@ namespace QLBH_Maytinh
             }
         }
 
-        private void btn_baocao_Click(object sender, EventArgs e)
-        {
-            Rp_Hoadonnhap frm = new Rp_Hoadonnhap(txt_mahdn.Text.ToString(),tennv.ToString(),txt_tongtien.Text.ToString(), date_ngaynhap.Text.ToString());
-            frm.ShowDialog();
-        }
+        //private void btn_baocao_Click(object sender, EventArgs e)
+        //{
+        //    Rp_Hoadonnhap frm = new Rp_Hoadonnhap(txt_mahdn.Text.ToString(),tennv.ToString(),txt_tongtien.Text.ToString(), date_ngaynhap.Text.ToString());
+        //    frm.ShowDialog();
+        //}
 
         public string get_tongtien { get { return txt_tongtien.Text; } }
         public string get_manv { get { return txt_manv.Text; } }

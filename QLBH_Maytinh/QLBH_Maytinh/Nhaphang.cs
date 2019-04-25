@@ -222,10 +222,11 @@ namespace QLBH_Maytinh
                 {
                     cnn.Open();
                     cmd.CommandType = CommandType.StoredProcedure;
-                   string[] a = datetime_hdn.Value.Date.ToString().Split('/');
-                    string b = a[1] + "/" + a[0] + "/" + a[2];
+                   //string[] a = datetime_hdn.Value.Date.ToString().Split('/');
+                   // string b = a[1] + "/" + a[0] + "/" + a[2];
                     cmd.Parameters.AddWithValue("@mahdn", txt_mahdn.Text.Trim().ToString());
-                    cmd.Parameters.AddWithValue("@ngaynhap",b);
+                    cmd.Parameters.AddWithValue("@ngaynhap", Convert.ToDateTime(datetime_hdn.Value.ToString()));
+                 //   cmd.Parameters.AddWithValue("@ngaynhap",b);
                     cmd.Parameters.AddWithValue("@manv", cb_tennv.SelectedValue.ToString());
                     cmd.Parameters.AddWithValue("@tongtien",0);
                     cmd.ExecuteNonQuery();

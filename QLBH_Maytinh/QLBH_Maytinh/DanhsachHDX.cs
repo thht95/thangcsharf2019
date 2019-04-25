@@ -95,11 +95,11 @@ namespace QLBH_Maytinh
             }
         }
 
-        private void btn_baocao_Click(object sender, EventArgs e)
-        {
-            Rp_Hoadonxuat frm = new Rp_Hoadonxuat(txt_mahdx.Text.ToString(),date_ngayxuat.Text.ToString(), tennv.ToString(),txt_tongtien.Text.ToString(), tenkh.ToString(), diachikh.ToString(), sdtkh.ToString());
-            frm.ShowDialog();
-        }
+        //private void btn_baocao_Click(object sender, EventArgs e)
+        //{
+        //    Rp_Hoadonxuat frm = new Rp_Hoadonxuat(txt_mahdx.Text.ToString(),date_ngayxuat.Text.ToString(), tennv.ToString(),txt_tongtien.Text.ToString(), tenkh.ToString(), diachikh.ToString(), sdtkh.ToString());
+        //    frm.ShowDialog();
+        //}
 
         private void datagrid_hdx_CellClick(object sender, DataGridViewCellEventArgs e)
         {

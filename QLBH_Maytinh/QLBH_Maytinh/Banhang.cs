@@ -210,13 +210,14 @@ namespace QLBH_Maytinh
                 {
                     cnn.Open();
                     cmd.CommandType = CommandType.StoredProcedure;
-                    string[] a = date_hdx.Value.Date.ToString().Split('/');
-                    string b = a[1] + "/" + a[0] + "/" + a[2];
+                    //string[] a = date_hdx.Value.Date.ToString().Split('/');
+                    //string b = a[1] + "/" + a[0] + "/" + a[2];
                     cmd.Parameters.AddWithValue("@mahdx", txt_mahdx.Text.Trim().ToString());
                     cmd.Parameters.AddWithValue("@tenkh", txt_tenkh.Text.Trim().ToString());
                     cmd.Parameters.AddWithValue("@diachikh", txt_diachi.Text.Trim().ToString());
                     cmd.Parameters.AddWithValue("@sdtkh", txt_sdt.Text.Trim().ToString());
-                    cmd.Parameters.AddWithValue("@ngayxuat", b);
+                    cmd.Parameters.AddWithValue("@ngayxuat", Convert.ToDateTime(date_hdx.Value.ToString()));
+                 //   cmd.Parameters.AddWithValue("@ngayxuat", b);
                     cmd.Parameters.AddWithValue("@manv", cb_tennv.SelectedValue.ToString());
                     cmd.Parameters.AddWithValue("@tongtien", 0);
                     cmd.ExecuteNonQuery();
