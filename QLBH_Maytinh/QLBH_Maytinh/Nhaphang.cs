@@ -170,6 +170,9 @@ namespace QLBH_Maytinh
         {
             if (!String.IsNullOrEmpty(txt_gianhap.Text) && !String.IsNullOrEmpty(txt_slnhap.Text))
                 txt_thanhtien.Text = (Convert.ToUInt32(txt_gianhap.Text) * Convert.ToInt32(txt_slnhap.Text)).ToString();
+
+            if (!String.IsNullOrEmpty(txt_slnhap.Text))
+                txt_slnhap.Text = int.Parse(txt_slnhap.Text) + "";
         }
 
         private void datagrid_chitietnhap_CellClick(object sender, DataGridViewCellEventArgs e)
