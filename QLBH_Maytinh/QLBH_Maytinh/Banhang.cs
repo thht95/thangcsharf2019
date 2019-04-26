@@ -108,8 +108,8 @@ namespace QLBH_Maytinh
             if (!String.IsNullOrEmpty(txt_giaban.Text) && !String.IsNullOrEmpty(txt_slxuat.Text))
                 txt_thanhtien.Text = (Convert.ToUInt32(txt_giaban.Text) * Convert.ToInt32(txt_slxuat.Text)).ToString();
 
-            if (!String.IsNullOrEmpty(txt_slnhap.Text))
-                txt_slnhap.Text = int.Parse(txt_slnhap.Text) + "";
+            if (!String.IsNullOrEmpty(txt_slxuat.Text))
+                txt_slxuat.Text = int.Parse(txt_slxuat.Text) + "";
         }
 
         private void btn_themds_Click(object sender, EventArgs e)
