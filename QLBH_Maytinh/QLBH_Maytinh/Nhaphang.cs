@@ -342,13 +342,13 @@ namespace QLBH_Maytinh
 
         private void datetime_hdn_Validating(object sender, CancelEventArgs e)
         {
-            if(datetime_hdn.Value >DateTime.Now)
-            {
-                errorProvider1.SetError(datetime_hdn, "Ngày nhập phải nhỏ hơn hoặc bằng ngày hiện tại!");
-                datetime_hdn.Focus();
-            }
-            else
-            errorProvider1.Clear();
+            //if(datetime_hdn.Value >DateTime.Now)
+            //{
+            //    errorProvider1.SetError(datetime_hdn, "Ngày nhập phải nhỏ hơn hoặc bằng ngày hiện tại!");
+            //    datetime_hdn.Focus();
+            //}
+            //else
+            //errorProvider1.Clear();
         }
 
         private void txt_gianhap_KeyPress(object sender, KeyPressEventArgs e)
