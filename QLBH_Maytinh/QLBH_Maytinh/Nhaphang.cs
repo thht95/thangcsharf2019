@@ -284,17 +284,24 @@ namespace QLBH_Maytinh
 
         private void btn_taohdn_Click(object sender, EventArgs e)
         {
-            if (checkmahdn() == 1 && Convert.ToUInt32(txt_tongtien.Text.ToString()) >0)
+            if (datetime_hdn.Value < DateTime.Now)
             {
-                themhdn();
-                them_hh_nhap();
-                MessageBox.Show("Thêm hóa đơn nhập hàng thành công");
-                Nhaphang_Load(sender,e);
-                datagrid_chitietnhap.Rows.Clear();
-                datagrid_chitietnhap.Refresh();
+                MessageBox.Show("Ngày nhập không đc trong quá khứ");
             }
             else
-                MessageBox.Show("Mã hóa đơn nhập đã tồn tại hoặc không đủ điều kiện tạo hóa đơn!");
+            {
+                if (checkmahdn() == 1 && Convert.ToUInt32(txt_tongtien.Text.ToString()) > 0)
+                {
+                    themhdn();
+                    them_hh_nhap();
+                    MessageBox.Show("Thêm hóa đơn nhập hàng thành công");
+                    Nhaphang_Load(sender, e);
+                    datagrid_chitietnhap.Rows.Clear();
+                    datagrid_chitietnhap.Refresh();
+                }
+                else
+                    MessageBox.Show("Mã hóa đơn nhập đã tồn tại hoặc không đủ điều kiện tạo hóa đơn!");
+            }
         }
 
         private void btn_thoat_Click(object sender, EventArgs e)
